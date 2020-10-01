@@ -1,0 +1,7 @@
+* Programımı C# programlama dili ile gerçekleştirdim.
+* Bitmap Sınıfını kullanarak renk pixelleriyle oynadım.
+* R G B olarak adlandırdığım pixellerle ayrı ayrı oynanarak 
+siyah beyaza çevirdim.
+* R-255 G-255 B-255 formülü ile Gri tonu yakaladım
+* R * 0.211 + G * 0.587 + B * 0.114 formülü ile de 
+Siyah beyaz formuülünü yakaladım. 

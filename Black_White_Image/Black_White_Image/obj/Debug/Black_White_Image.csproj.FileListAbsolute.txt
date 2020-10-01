@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Black_White_Image\Black_White_Image\bin\Debug\Black_White_Image.exe.config
+C:\Users\user\source\repos\Black_White_Image\Black_White_Image\bin\Debug\Black_White_Image.exe
+C:\Users\user\source\repos\Black_White_Image\Black_White_Image\bin\Debug\Black_White_Image.pdb
+C:\Users\user\source\repos\Black_White_Image\Black_White_Image\obj\Debug\Black_White_Image.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Black_White_Image\Black_White_Image\obj\Debug\Black_White_Image.Form1.resources
+C:\Users\user\source\repos\Black_White_Image\Black_White_Image\obj\Debug\Black_White_Image.Properties.Resources.resources
+C:\Users\user\source\repos\Black_White_Image\Black_White_Image\obj\Debug\Black_White_Image.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Black_White_Image\Black_White_Image\obj\Debug\Black_White_Image.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Black_White_Image\Black_White_Image\obj\Debug\Black_White_Image.exe
+C:\Users\user\source\repos\Black_White_Image\Black_White_Image\obj\Debug\Black_White_Image.pdb
